@@ -38,7 +38,6 @@ x3 = {
     "Locations",
     "date"
 }
-
 print(type(x3))
 
 x4 = range(10)
