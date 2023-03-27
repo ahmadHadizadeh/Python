@@ -1,4 +1,4 @@
-# tuple is 1 stractcher not chang
+# tuple is 1 stractcher not chang & unchangeable
 # define:
 
 TupleName = ("Car", "Mobile", "Animal", "human", "ocean")
