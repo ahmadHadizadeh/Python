@@ -22,7 +22,7 @@
 #     print(i)
 
 # while
-num = 0
+# num = 0
 # while num <= 80:
 #     print(num)
 #     num += 5
@@ -52,7 +52,7 @@ x = 0
 while x < 28:
     x += 1
     if x == 16:  # ==> 16 not print
-        continue
+        continue  # skip 16
     elif x == 23:  # ==>  print 1 from 22 out code
         break
 
