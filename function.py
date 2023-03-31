@@ -54,14 +54,15 @@
 # print(res)
 
 # base condition
+# fibonachi
 
-def fibo(num):
-    if num == 0 or num == 1:
-        return num
-    else:
-        return fibo(num - 1) + fibo(num - 2)
+# def fibo(num):
+#     if num == 0 or num == 1:
+#         return num
+#     else:
+#         return fibo(num - 1) + fibo(num - 2)
 
 
-num = int(input("please inter number : "))
-for i in range(0, num):
-    print(fibo(i))
+# num = int(input("please inter number : "))
+# for i in range(0, num):
+#     print(fibo(i))
